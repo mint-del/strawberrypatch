@@ -1,0 +1,11 @@
+{
+  "name": "Genesis Strawberry #21 (G21)",
+  "description": "Part of the original Genesis cohort of the StrawberryPatch project. Living plant stewarded in Eden. Recorded on Ethereum Sepolia.",
+  "external_url": "https://mint-del.github.io/strawberrypatch/genesis/G21.html",
+  "attributes": [
+    { "trait_type": "Generation", "value": "Genesis" },
+    { "trait_type": "Cohort", "value": "Genesis 24" },
+    { "trait_type": "Origin", "value": "Tribute Strawberry Everbearer – Stark Bros Nursery" },
+    { "trait_type": "Stewardship Location", "value": "Eden" }
+  ]
+}

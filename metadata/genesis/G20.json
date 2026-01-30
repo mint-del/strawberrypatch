@@ -1,6 +1,7 @@
 {
   "name": "Genesis Strawberry #20 (G20)",
   "description": "Part of the original Genesis cohort of the StrawberryPatch project. Living plant stewarded in Eden. Recorded on Ethereum Sepolia.",
+  "image": "https://mint-del.github.io/strawberrypatch/assets/images/genesis-strawberry.png",
   "external_url": "https://mint-del.github.io/strawberrypatch/genesis/G20.html",
   "attributes": [
     { "trait_type": "Generation", "value": "Genesis" },
